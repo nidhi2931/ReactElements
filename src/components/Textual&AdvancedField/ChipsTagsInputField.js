@@ -7,4 +7,4 @@ function ChipsTagsInputField(){
     );
 }
 
-export default AutoCompleteField;
+export default ChipsTagsInputField;
